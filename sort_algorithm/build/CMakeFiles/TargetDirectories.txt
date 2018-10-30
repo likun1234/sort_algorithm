@@ -1,0 +1,3 @@
+/home/lk/project/c++/datasturcture/paixu/build/CMakeFiles/rebuild_cache.dir
+/home/lk/project/c++/datasturcture/paixu/build/CMakeFiles/edit_cache.dir
+/home/lk/project/c++/datasturcture/paixu/build/CMakeFiles/main.dir
